@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #f3f5f7;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+header {
+  height: 300px;
+  background-size: cover;
+  background: #494491;
+  background: linear-gradient(41deg, #494491, #ff5b5bd1);
+}
+
+header > h1 {
+  position: absolute;
+  right: 20px;
+  top: 215px;
+  color: white;
+  animation: fadein 2s;
+}
+
+nav {
+  position: absolute;
+  top: 20px;
+  color: white;
+  padding: 0px 15px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  width: 150%;
+  justify-content: space-around;
+}
+
+nav ul li {
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  text-decoration: underline;
+}
+
+main {
+  height: 100%;
+  font-size: 13px;
+}
+
+main section div {
+  margin: 10px;
+}
+
+/* components */
+.container {
+  background: white;
+  border: 1px solid #e0e5ee;
+  padding: 20px;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+    right: 0px;
+  }
+  to {
+    opacity: 1;
+    right: 20px;
+  }
+}

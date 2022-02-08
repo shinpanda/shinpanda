@@ -1,0 +1,22 @@
+{
+  "name": "shinpanda",
+  "version": "0.0.1",
+  "description": "이것저것",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinpanda/shinpanda.git"
+  },
+  "author": "shinpanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinpanda/shinpanda/issues"
+  },
+  "homepage": "https://github.com/shinpanda/shinpanda#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
