@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Shinpanda's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=leesm&langs_count=8)
 <!--
 **shinpanda/shinpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
