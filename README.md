@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-기술블로그는 아니고 잡다하게 작성한 취미 블로그
-https://shinpanda.tistory.com/
+기술블로그는 아니고 잡다하게 작성한 취미 블로그  
+[https://shinpanda.tistory.com/](https://shinpanda.tistory.com/)
